@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Blanca Garcia!
-- 📫 How to reach me: blanca.agarcia88@gmail.com
+- 📫 Email: blanca.agarcia88@gmail.com
 
 <!---
 blancariz/blancariz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
